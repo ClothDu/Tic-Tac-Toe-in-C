@@ -6,5 +6,11 @@ Thanks to read that, if you want give some tips, I will love this!!
 pt-br
 oi pessoal!!!
 Esse é o meu primeiro programam em C que não envolve diretamente cálculos (eu não sei como falar isso, mas basicamente isso não calcula nada para o usuario).
-Eu sei que esse código é caótico, e tem um monte de coisas que eu posso fazer nele, mas um dia eu vou refazer essa baguça, eu prometo!
+Eu sei que esse código está caótico, e tem um monte de coisas que eu posso fazer nele, mas um dia eu vou refazer essa baguça, eu prometo!
 Obrigada por ler isso, se você quiser dar dicas eu vou amar recebe-las!!
+
+
+23/12/2024
+I made updates, the code is more clean and userful (no bugs!!! 😁), unfortunally, we lost the beautiful desing of the board, but this is necessary, I think
+
+Eu fiz melhorias, o codigo está mais limpo e otimizado (sem bugs!!! 😁), infelizmente, nos perdemos o desing lindo do tabuleiro, mas isso foi necessário, eu acho
