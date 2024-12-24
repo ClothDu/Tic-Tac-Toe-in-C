@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735005914 source:c:\users\vilanova vilar\desktop\carlos Área de trabalho\os cabeções\3. carlos eduardo\programas\notas\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+
